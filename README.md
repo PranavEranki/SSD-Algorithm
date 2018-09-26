@@ -1,10 +1,13 @@
 # Object Detection using Single Shot MultiBox Detector
+*Author : Pranav Eranki 2018*
 
-The aim of this project is to implement a neural network for object detection that has a good accuracy while allowing a fast inference time. This is done by implementing the algorithm Single Shot MultiBox Detector (SSD).
+The aim of this project is to implement a neural network for object detection that has a good accuracy while allowing a fast inference time. This is done by implementing the Single Shot MultiBox Detector (SSD) algorithm.
 
 The original paper about the Single Shot MultiBox Detector can be found at https://arxiv.org/pdf/1512.02325.pdf.
 
-This project is a research project created in fulfillment of requirements for the course "Object Recognition and Image Understanding" at Heidelberg University in the summer semester 2018.
+This was a project made for fun and for exploring further the creation and usage of the SSD.
+
+__Extension of AI Workshop 9__
 
 ## Project Structure
 

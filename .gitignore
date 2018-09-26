@@ -40,7 +40,3 @@ a0header.ps
 *.bbl
 *.bcf
 *.blg
-
-## MACOS HIDDEN SYSTEM FILES
-.DS_Store
-.MACOS
