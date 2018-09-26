@@ -1,0 +1,46 @@
+## DATASETS
+/data/interim/*
+/data/processed/*
+/data/raw/*
+!/data/interim/.gitkeep
+!/data/processed/.gitkeep
+!/data/raw/.gitkeep
+
+## TRAINING
+/training/*
+!/training/.gitkeep
+
+## MODELS
+/models/*
+!/models/.gitkeep
+
+## PYTHON CACHE
+__pycache__/
+
+## NOTEBOOK CHECKPOINTS
+.ipynb_checkpoints/
+
+## LATEX TEMPORARY FILES
+*.aux
+*.log
+*.toc
+*.idx
+*.run.xml
+
+## LATEX BEAMER
+*.snm
+*.vrb
+*.nav
+*.out
+
+## LATEX POSTER
+a0header.ps
+
+## BIBTEX
+*.bbl
+*.bcf
+*.blg
+
+## MACOS HIDDEN SYSTEM FILES
+.DS_Store
+.MACOS
