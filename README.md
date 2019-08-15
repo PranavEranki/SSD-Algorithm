@@ -45,12 +45,12 @@ __Extension of AI Workshop 9__
 
 ## Getting Started
 
-To get started, download the pre-trained [VGG 16 weights](http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz) and extract the file `vgg_16.ckpt` to `tf-ssd-vgg/models/vgg_16_imagenet`.
+To get started, download the pre-trained [VGG 16 weights](http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz). Move the file `vgg_16.ckpt` to `tf-ssd-vgg/models/vgg_16_imagenet`.
 
-To train the neural network, the Pascal VOC 2007 and 2012 datasets were used. Download the following archives and move them to `tf-ssd-vgg/data/raw/voc2007` and `tf-ssd-vgg/data/raw/voc2012`.
-- [VOC 2007 trainval](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar)
-- [VOC 2007 test](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar)
-- [VOC 2012 trainval](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar)
+To train the neural network, download the below and move them to `tf-ssd-vgg/data/raw/voc2007` and `tf-ssd-vgg/data/raw/voc2012`.
+- [Pascal VOC 2007 trainval](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar)
+- [Pascal VOC 2007 test](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar)
+- [Pascal VOC 2012 trainval](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar)
 
 ## Dependencies
 
